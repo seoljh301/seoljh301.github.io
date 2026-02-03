@@ -1,18 +1,14 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+default:
+    name: "Jihwan Seol"
+    bio: "I work on speech synthesis (paraverbal speech generation) and neural audio generation."
+    location: "Seoul, Korea"
+    employer: "Chung-Ang University (B.S. CSE)"
+    email: "seoljh301@gmail.com"
+    avatar: "profile.png"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+    # 링크들: 없는 건 삭제/주석 처리해도 됨
+    github: "seoljh301"
+    # scholar: "https://scholar.google.com/citations?user=XXXX"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
