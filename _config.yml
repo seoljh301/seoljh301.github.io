@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                   : "Jihwan Seol"
 title_separator          : "-"
 name                     : &name "Jihwan Seol"
-description              : &description "Speech synthesis (paraverbal speech generation) & neural audio generation."
+description              : &description "Hello! I'm interested in bridging the gap between acoustic signals and semantic reasoning for Trustworthy Audio Intelligence."
 url                      : https://seoljh301.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,9 +27,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Jihwan Seol"
   pronouns         : # example: "she/her"  
-  bio              : "Speech synthesis (paraverbal speech generation) & neural audio generation."
+  bio              : "Hello! I'm interested in bridging the gap between acoustic signals and semantic reasoning for Trustworthy Audio Intelligence."
   location         : "Seoul, South Korea"
-  employer         : "CAU"
+  employer         : "Chung-Ang University"
   uri              : # URL
   email            : "seoljh301@cau.ac.kr" 
 
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/jihwan-seol-51a6a6321/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
